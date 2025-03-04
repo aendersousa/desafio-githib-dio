@@ -1,4 +1,4 @@
-<h1>1️⃣ Principais Comandos do Gi</h1>
+<h1>1️⃣ Principais Comandos do Git</h1>
 
 Comandos | Oque fazem
 ---|---
@@ -16,5 +16,23 @@ git merge branch |  Mescla uma branch com a branch atual.
 
 ---
 <h1>2️⃣ Como Clonar um Repositório</h1>
+
+### Para clonar um repositório do GitHub para o seu computador, use:
+
+<h2>git clone https://github.com/usuario/repo.git  </h2>
+
+### Isso cria uma cópia do repositório no seu computador, permitindo que você trabalhe nele.
+
+---
+
+<h1>3️⃣ Comandos para Trabalhar em Equipe</h1>
+
+
+
+
+
+
+
+
 
 
