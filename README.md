@@ -38,7 +38,7 @@ git rebase (branch) | Atualiza sua branch com as últimas mudanças da branch pr
 git stash | Guarda temporariamente mudanças não commitadas.
 ---
 
-
+![gif](image.png)
 
 
 
