@@ -41,6 +41,6 @@ git stash | Guarda temporariamente mudanças não commitadas.
 ![gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e4724r849cemoqqiqbe2s63q4nr0cfncd94l5usl1ap&rid=giphy.gif&ct=g)
 
 
+# Obejetivo deste Repositório:
 
-
-
+## Criei este repositório com o intuito de aprender a trabalhar em equipe e aprimorar minhas habilidades com Git e GitHub. Para isso, utilizei outra conta minha no GitHub e colaborei ativamente neste repositório, simulando um ambiente de trabalho em equipe.
