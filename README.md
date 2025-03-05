@@ -8,10 +8,10 @@ git status | Mostra o status das mudanças no repositório.
 git add arquivo | Adiciona um arquivo específico para o próximo commit.
 git add . | Adiciona todas as mudanças ao commit.
 git commit -m "mensagem" | Cria um commit com as mudanças.
-git push origin branch | Envia as mudanças para o repositório remoto.
-git pull origin branch |  Puxa as últimas alterações do repositório remoto.
-git checkout -b nome-da-branch | Cria e muda para uma nova branch.
-git merge branch |  Mescla uma branch com a branch atual.
+git push origin (branche) | Envia as mudanças para o repositório remoto.
+git pull origin (branche) |  Puxa as últimas alterações do repositório remoto.
+git checkout -b nome-da-(branche) | Cria e muda para uma nova (branche).
+git merge (branche) |  Mescla uma (branche) com a (branche) atual.
 
 
 ---
@@ -27,8 +27,16 @@ git merge branch |  Mescla uma branch com a branch atual.
 
 <h1>3️⃣ Comandos para Trabalhar em Equipe</h1>
 
-
-
+Comandos | Oque fazem
+---|---
+git (branche) | Lista todas as branches no projeto.
+git checkout (branche) | Muda para outra (branche).
+git pull origin (branche) | Atualiza seu código antes de começar a trabalhar.
+git push origin (branche) |Envia suas alterações para o repositório remoto.
+git fetch | Baixa as últimas mudanças do repositório remoto sem aplicá-las.
+git rebase (branch) | Atualiza sua branch com as últimas mudanças da branch principal.
+git stash | Guarda temporariamente mudanças não commitadas.
+---
 
 
 
